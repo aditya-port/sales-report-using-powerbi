@@ -1,6 +1,6 @@
 # Sales Dashboard 📊
 
-![Sales Dashboard Preview]<img width="959" height="537" alt="sales-report-using-powerbi" src="https://github.com/user-attachments/assets/daeed457-86d4-4d8d-9d75-d936d7016961" />
+<img width="1338" height="739" alt="Screenshot 2026-02-09 095436" src="https://github.com/user-attachments/assets/a7b8728a-4818-4a59-acf5-fa58fdae91d4" />
 
 
 
