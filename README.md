@@ -1,6 +1,6 @@
 # Sales Dashboard 📊
 
-<img width="1338" height="739" alt="Screenshot 2026-02-09 095436" src="https://github.com/user-attachments/assets/a7b8728a-4818-4a59-acf5-fa58fdae91d4" />
+<img width="1342" height="752" alt="256790772-23e117f3-fd1d-4c0b-a0a7-391795d3ca79" src="https://github.com/user-attachments/assets/23294ef1-6f24-42c6-a731-c8b191997b17" />
 
 
 
